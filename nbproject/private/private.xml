@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lenovo/Downloads/helpdesk3_Rodriguez/heldesk3_rodriguez/src/vista/InterfazPrincipal.java</file>
+            <file>file:/C:/Users/Lenovo/Downloads/helpdesk3_Rodriguez/heldesk3_rodriguez/src/controlador/LoginController.java</file>
+            <file>file:/C:/Users/Lenovo/Downloads/helpdesk3_Rodriguez/heldesk3_rodriguez/src/modelo/Usuario.java</file>
+            <file>file:/C:/Users/Lenovo/Downloads/helpdesk3_Rodriguez/heldesk3_rodriguez/src/modelo/UsuarioDao.java</file>
+            <file>file:/C:/Users/Lenovo/Downloads/helpdesk3_Rodriguez/heldesk3_rodriguez/src/controlador/UsuarioController.java</file>
+            <file>file:/C:/Users/Lenovo/Downloads/helpdesk3_Rodriguez/heldesk3_rodriguez/src/modelo/Login.java</file>
+            <file>file:/C:/Users/Lenovo/Downloads/helpdesk3_Rodriguez/heldesk3_rodriguez/src/main/main.java</file>
+            <file>file:/C:/Users/Lenovo/Downloads/helpdesk3_Rodriguez/heldesk3_rodriguez/src/modelo/ReporteDao.java</file>
+            <file>file:/C:/Users/Lenovo/Downloads/helpdesk3_Rodriguez/heldesk3_rodriguez/src/controlador/ReporteController.java</file>
+            <file>file:/C:/Users/Lenovo/Downloads/helpdesk3_Rodriguez/heldesk3_rodriguez/src/modelo/ConexionesMySQL.java</file>
+            <file>file:/C:/Users/Lenovo/Downloads/helpdesk3_Rodriguez/heldesk3_rodriguez/src/modelo/ReportePDF.java</file>
+            <file>file:/C:/Users/Lenovo/Downloads/helpdesk3_Rodriguez/heldesk3_rodriguez/src/controlador/TecnicoController.java</file>
+        </group>
+    </open-files>
+</project-private>
